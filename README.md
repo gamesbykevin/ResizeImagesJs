@@ -1,9 +1,11 @@
 # ResizeImagesJs
-## node js function to quickly resize your images
+## quickly resize your images in nodejs
 
-#### if you have a lot of images in a single folder that you want to resize quickly this is the way to do it
+#### if you have several images in a single folder that you want to resize quickly this is the solution
 
-there are 2 nodejs dependencies to install, run these commands to set that up
+##### pre-requisites - there are 2 nodejs dependencies to install
+
+run these commands to set that up
 
 ```
 npm i sharp
