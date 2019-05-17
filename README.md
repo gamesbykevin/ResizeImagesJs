@@ -18,8 +18,8 @@ only files with these extensions will be resized, which you can change<br>
 ```javascript
 const fileTypes = ['.jpg', '.jpeg', '.png', '.gif', '.tif', '.svg'];
 ```
-in index.js modify the ```start()``` function according to how you want to resize your images
-a few example are already there which covers most scenarios
+in index.js modify the ```start()``` function according to how you want to resize your images<br>
+below are a few examples which cover most scenarios
 
 ```javascript
 //1st parameter is the folder name where your modified images go, 2nd is the size ratio
