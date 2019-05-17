@@ -14,7 +14,7 @@ npm i image-size
 place the index.js file in the same directory as your images and run
 node index.js
 
-you can modify this list as valid image files that can be resized<br>
+only files with these extensions will be resized, which you can change<br>
 ```javascript
 const fileTypes = ['.jpg', '.jpeg', '.png', '.gif', '.tif', '.svg'];
 ```
